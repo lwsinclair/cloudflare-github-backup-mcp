@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/dynamicendpoints-cloudflare-github-backup-mcp-badge.png)](https://mseep.ai/app/dynamicendpoints-cloudflare-github-backup-mcp)
+
 # Cloudflare to GitHub Backup MCP Server
 
 [![smithery badge](https://smithery.ai/badge/@DynamicEndpoints/cloudflare-github-backup-mcp)](https://smithery.ai/server/@DynamicEndpoints/cloudflare-github-backup-mcp)
